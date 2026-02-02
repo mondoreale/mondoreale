@@ -1,16 +1,14 @@
-## Hi there 👋
+## Mariusz
 
-<!--
-**mondoreale/mondoreale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working primarily in TypeScript, with an interest in asynchronous systems and user-facing state.
 
-Here are some ideas to get you started:
+> [!note]
+> Currently seeking **remote-only** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on problems where system progress is non-linear: partial completion, delays, failures, and changing intent. My work examines how interfaces communicate these conditions, and how process handling and feedback shape user understanding over time.
+
+### Work and interests
+- [**toasterhea**](https://www.npmjs.com/package/toasterhea) – Promise-driven UI patterns for React
+  An exploration of structuring UI around async outcomes and deferred decisions.
+- Open-source contributions and small experiments in TypeScript and browser environments.
+- Continued exploration of UI design and AWS services as a way to reason about systems beyond the happy path.
